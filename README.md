@@ -1,4 +1,4 @@
-# Order & Out
+# Mayank's Cafe
 
 An elegant single page food ordering web application running on top of reactjs & redux.
 
@@ -18,7 +18,7 @@ http://demo0810307.mockable.io/getItems
 * First clone the repository
 
 ```
-git clone 
+git clone https://github.com/MayankDargan/mayankscafe.git
 ```
 
 * Then go to the local directory and run below commands
